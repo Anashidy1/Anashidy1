@@ -1,5 +1,5 @@
 ### Olá! 👋
 
 - 👩‍🎓	2º semestre de Análise e Desenvolvimento de Sistemas;
-- 🌱 Estudante de QA;
+- 🌱 QA Engineer - Junior;
 - 📫 Contato: anacdes@gmail.com
